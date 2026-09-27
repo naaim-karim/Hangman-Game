@@ -1,2 +1,2 @@
 # Hangman Game 
-https://itctrl-naaim.github.io/Hangman-Game/ 
+https://naaim-karim.github.io/Hangman-Game/
